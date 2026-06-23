@@ -1,0 +1,8 @@
+{
+  "name": "Konsultasi Fashion dan Warna Personal",
+  "description": "Sistem Informasi Konsultasi Fashion & Warna Personal berbasis kerangka kerja TOGAF untuk membantu pelanggan menentukan palet warna dan gaya busana secara digital dengan saran AI",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

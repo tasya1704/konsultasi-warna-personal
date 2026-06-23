@@ -1,0 +1,26 @@
+[
+  {
+    "username": "stylist_rst",
+    "password": "rstpassword2026",
+    "fullname": "RST Stylist Officer",
+    "role": "Senior Stylist"
+  },
+  {
+    "username": "tasya s",
+    "password": "12345678",
+    "fullname": "TASYAZESICA ",
+    "role": "Stylist Officer"
+  },
+  {
+    "username": "stev",
+    "password": "123456789",
+    "fullname": "STEVEN",
+    "role": "Stylist Officer"
+  },
+  {
+    "username": "mari",
+    "password": "123456789",
+    "fullname": "MARIANA",
+    "role": "Stylist Officer"
+  }
+]

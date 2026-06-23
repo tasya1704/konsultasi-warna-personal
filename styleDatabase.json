@@ -1,0 +1,164 @@
+[
+  {
+    "id": "db-rec-1",
+    "clientName": "Aria Wijaya",
+    "clientEmail": "aria.wijaya@gmail.com",
+    "underTone": "Warm",
+    "skinTone": "Medium (Kuning Langsat)",
+    "hairColor": "Dark Brown",
+    "eyeColor": "Black",
+    "seasonPalette": "Warm Spring",
+    "styleArchetype": "Classic Elegant",
+    "createdAt": "2026-06-20T15:51:02.514Z",
+    "notes": "Klien butik utama. Menyukai bahan sutra dengan pakaian formal terstruktur. Butuh rekomendasi busana untuk gala dinner.",
+    "aiOutput": {
+      "recommendationSummary": "Aria memiliki karakteristik undertone hangat dengan skin tone medium cerah khas kuningan langsat. Palet warna Warm Spring memperkuat rona alami wajahnya, membuatnya terlihat lebih bercahaya tanpa terkesan kusam.",
+      "bestColors": [
+        {
+          "name": "Peach Gold",
+          "hex": "#FFD0A1",
+          "reason": "Memberikan kehangatan alami yang mewah pada kulit wajah."
+        },
+        {
+          "name": "Terracotta Warm",
+          "hex": "#D36F52",
+          "reason": "Aksen warna bumi berani yang menonjolkan fitur mata kehitaman."
+        },
+        {
+          "name": "Warm Olive Green",
+          "hex": "#878D32",
+          "reason": "Menyeimbangkan kontras warna rambut dark brown secara romantis."
+        }
+      ],
+      "avoidColors": [
+        "Ice Blue",
+        "Deep Indigo",
+        "Pure Magenta"
+      ],
+      "suggestedFabrics": [
+        "Sutra Organza",
+        "Linen Halus",
+        "Katun Jacquard"
+      ],
+      "outfitInspirations": [
+        {
+          "title": "Gala Dinner Executive Look",
+          "clothes": [
+            "Dress terstruktur peach gold dengan sabuk metalik tipis",
+            "Heels pump nude bertekstur suede",
+            "Anting gantung emas minimalis"
+          ],
+          "occasion": "Formal Dinner atau Pertemuan Bisnis"
+        }
+      ]
+    }
+  },
+  {
+    "id": "db-rec-2",
+    "clientName": "Siti Rahma",
+    "clientEmail": "siti.rahma@outlook.com",
+    "underTone": "Cool",
+    "skinTone": "Olive Deep",
+    "hairColor": "Black Charcoal",
+    "eyeColor": "Dark Brown",
+    "seasonPalette": "Bright Winter",
+    "styleArchetype": "Casual Minimalist",
+    "createdAt": "2026-06-17T15:51:02.516Z",
+    "notes": "Butuh pakaian kasual sehari-hari bergaya minimalis tetapi tetap menonjolkan profesionalisme.",
+    "aiOutput": {
+      "recommendationSummary": "Kombinasi rambut hitam tebal dengan rona kulit zaitun pekat menciptakan tingkat kontras tinggi yang sempurna untuk Bright Winter. Kombinasi warna solid berkontras tinggi akan meningkatkan impresi berwibawa namun bersahaja.",
+      "bestColors": [
+        {
+          "name": "Emerald Jewel",
+          "hex": "#004B23",
+          "reason": "Sangat cocok untuk kontras dramatis kulit olive deep."
+        },
+        {
+          "name": "Pure Charcoal",
+          "hex": "#343A40",
+          "reason": "Alternatif hitam biasa yang lebih lembut namun tetap berbobot."
+        },
+        {
+          "name": "Classic Crimson",
+          "hex": "#9B2226",
+          "reason": "Memberikan aksen warna royal berani yang meningkatkan energi berpakaian."
+        }
+      ],
+      "avoidColors": [
+        "Mustard Yellow",
+        "Pastel Peach",
+        "Tan Beige"
+      ],
+      "suggestedFabrics": [
+        "Rajut Corduroy",
+        "Wol Gabardin",
+        "Premium Denim"
+      ],
+      "outfitInspirations": [
+        {
+          "title": "Corporate Casual Chic",
+          "clothes": [
+            "Blazer terstruktur warna charcoal",
+            "Kaos katun putih premium",
+            "Celana bahan high-waist hijau emerald"
+          ],
+          "occasion": "Presentasi Proyek & Kasual Kantor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "db-rec-3",
+    "clientName": "Clara Michelle",
+    "clientEmail": "claramich@gmail.com",
+    "underTone": "Cool",
+    "skinTone": "Fair White",
+    "hairColor": "Chestnut",
+    "eyeColor": "Greyish Brown",
+    "seasonPalette": "Cool Summer",
+    "styleArchetype": "Romantique",
+    "createdAt": "2026-06-12T15:51:02.516Z",
+    "notes": "Kerap mengenakan aksesoris retro perak. Mencari palet lembut pastel untuk rancangan busana pernikahan taman.",
+    "aiOutput": {
+      "recommendationSummary": "Rona kulit ultra-terang berkombinasi dengan mata abu-abu kecokelatan mengindikasikan palet Cool Summer yang berkarakter anggun, tenang, dan memikat bagai rona pagi berkabut semilir angin pantai.",
+      "bestColors": [
+        {
+          "name": "Dusty Rose",
+          "hex": "#DCAEBE",
+          "reason": "Romantisasi rona merah jambu berdebu yang menyatu manis dengan kulit fair."
+        },
+        {
+          "name": "Lavender Mist",
+          "hex": "#C5A3E8",
+          "reason": "Menonjolkan pesona warna mata abu-abu-kecokelatan yang unik."
+        },
+        {
+          "name": "Sage Soft Green",
+          "hex": "#879F84",
+          "reason": "Warna hijau tenang yang membawa aura keanggunan alami tanpa kesan mencolok."
+        }
+      ],
+      "avoidColors": [
+        "Vibrant Neon Yellow",
+        "Warm Brick Red",
+        "Neon Orange"
+      ],
+      "suggestedFabrics": [
+        "Tille Lembut",
+        "Parisian Chiffon",
+        "Linen Silk Blend"
+      ],
+      "outfitInspirations": [
+        {
+          "title": "Garden Wedding Guest",
+          "clothes": [
+            "Gaun lipit midi dusty rose berbahan sifon menyapu lembut",
+            "Heels bertali mutiara",
+            "Anting perak bermotif dedaunan filigri"
+          ],
+          "occasion": "Outdoor Wedding & Garden Party"
+        }
+      ]
+    }
+  }
+]

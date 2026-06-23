@@ -1,0 +1,1199 @@
+[
+  {
+    "id": "log-1782222016240-mx2q",
+    "timestamp": "2026-06-23T13:40:16.240Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782222016218-l1bz",
+    "timestamp": "2026-06-23T13:40:16.218Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782222011876-t5h5",
+    "timestamp": "2026-06-23T13:40:11.876Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782222011865-r5nk",
+    "timestamp": "2026-06-23T13:40:11.865Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782222009393-heco",
+    "timestamp": "2026-06-23T13:40:09.393Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782222009376-o2hv",
+    "timestamp": "2026-06-23T13:40:09.376Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782222006173-9s63",
+    "timestamp": "2026-06-23T13:40:06.173Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782222006144-8lqc",
+    "timestamp": "2026-06-23T13:40:06.144Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782222004206-8wd5",
+    "timestamp": "2026-06-23T13:40:04.206Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782222004188-r5ps",
+    "timestamp": "2026-06-23T13:40:04.188Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782222002361-8eij",
+    "timestamp": "2026-06-23T13:40:02.361Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782222002340-iq4y",
+    "timestamp": "2026-06-23T13:40:02.340Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221998321-bfri",
+    "timestamp": "2026-06-23T13:39:58.321Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221998296-ege9",
+    "timestamp": "2026-06-23T13:39:58.296Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221992538-zd44",
+    "timestamp": "2026-06-23T13:39:52.538Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221992470-s6mr",
+    "timestamp": "2026-06-23T13:39:52.470Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221987385-9n4o",
+    "timestamp": "2026-06-23T13:39:47.385Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221987334-l1qd",
+    "timestamp": "2026-06-23T13:39:47.334Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221984419-rux2",
+    "timestamp": "2026-06-23T13:39:44.419Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221984397-p8ol",
+    "timestamp": "2026-06-23T13:39:44.397Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221977316-l2xu",
+    "timestamp": "2026-06-23T13:39:37.316Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221976996-a5br",
+    "timestamp": "2026-06-23T13:39:36.996Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221973267-qmkh",
+    "timestamp": "2026-06-23T13:39:33.267Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221973151-m14c",
+    "timestamp": "2026-06-23T13:39:33.151Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221969145-121v",
+    "timestamp": "2026-06-23T13:39:29.145Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221969116-u85u",
+    "timestamp": "2026-06-23T13:39:29.116Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221966137-4i88",
+    "timestamp": "2026-06-23T13:39:26.137Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221965764-kt6c",
+    "timestamp": "2026-06-23T13:39:25.764Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221961149-4pam",
+    "timestamp": "2026-06-23T13:39:21.149Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221961096-kczs",
+    "timestamp": "2026-06-23T13:39:21.096Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221956347-gcm0",
+    "timestamp": "2026-06-23T13:39:16.347Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221956319-szym",
+    "timestamp": "2026-06-23T13:39:16.319Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221954240-7p26",
+    "timestamp": "2026-06-23T13:39:14.240Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221954201-f92v",
+    "timestamp": "2026-06-23T13:39:14.201Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221947446-qomb",
+    "timestamp": "2026-06-23T13:39:07.446Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221947401-o0vp",
+    "timestamp": "2026-06-23T13:39:07.401Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221942843-92vh",
+    "timestamp": "2026-06-23T13:39:02.843Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221942819-wyjy",
+    "timestamp": "2026-06-23T13:39:02.819Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221939307-5z8s",
+    "timestamp": "2026-06-23T13:38:59.307Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221939222-xikz",
+    "timestamp": "2026-06-23T13:38:59.222Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221937804-n4v6",
+    "timestamp": "2026-06-23T13:38:57.804Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221937773-ntcr",
+    "timestamp": "2026-06-23T13:38:57.773Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221932299-wfnf",
+    "timestamp": "2026-06-23T13:38:52.299Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221932285-p1b2",
+    "timestamp": "2026-06-23T13:38:52.286Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221930013-2120",
+    "timestamp": "2026-06-23T13:38:50.013Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221929974-x2qc",
+    "timestamp": "2026-06-23T13:38:49.974Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221927345-26xn",
+    "timestamp": "2026-06-23T13:38:47.345Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221927283-kadv",
+    "timestamp": "2026-06-23T13:38:47.283Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221919813-6dih",
+    "timestamp": "2026-06-23T13:38:39.813Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221919795-ie9j",
+    "timestamp": "2026-06-23T13:38:39.795Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221900521-hm9b",
+    "timestamp": "2026-06-23T13:38:20.521Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221900483-7hin",
+    "timestamp": "2026-06-23T13:38:20.483Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221891233-k2wv",
+    "timestamp": "2026-06-23T13:38:11.233Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221891206-bu6o",
+    "timestamp": "2026-06-23T13:38:11.206Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221887708-80ji",
+    "timestamp": "2026-06-23T13:38:07.708Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221887693-m16t",
+    "timestamp": "2026-06-23T13:38:07.693Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221883559-94as",
+    "timestamp": "2026-06-23T13:38:03.559Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221883518-w6ko",
+    "timestamp": "2026-06-23T13:38:03.518Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221878911-uuq2",
+    "timestamp": "2026-06-23T13:37:58.911Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221878883-52nq",
+    "timestamp": "2026-06-23T13:37:58.883Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221875950-b21v",
+    "timestamp": "2026-06-23T13:37:55.950Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221875886-c4ne",
+    "timestamp": "2026-06-23T13:37:55.886Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221874339-330y",
+    "timestamp": "2026-06-23T13:37:54.339Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221874020-8io0",
+    "timestamp": "2026-06-23T13:37:54.020Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221872783-yrl2",
+    "timestamp": "2026-06-23T13:37:52.783Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221872424-k9wt",
+    "timestamp": "2026-06-23T13:37:52.424Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221870986-0w91",
+    "timestamp": "2026-06-23T13:37:50.986Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221870818-4ntg",
+    "timestamp": "2026-06-23T13:37:50.818Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221868980-rer6",
+    "timestamp": "2026-06-23T13:37:48.980Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221868910-kt92",
+    "timestamp": "2026-06-23T13:37:48.910Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221867698-uvg8",
+    "timestamp": "2026-06-23T13:37:47.698Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221867621-tklw",
+    "timestamp": "2026-06-23T13:37:47.621Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221865951-sxkl",
+    "timestamp": "2026-06-23T13:37:45.951Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221865846-i2bx",
+    "timestamp": "2026-06-23T13:37:45.846Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221864247-qkcw",
+    "timestamp": "2026-06-23T13:37:44.247Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221863996-37al",
+    "timestamp": "2026-06-23T13:37:43.996Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221862531-n0tp",
+    "timestamp": "2026-06-23T13:37:42.531Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221862360-bcwj",
+    "timestamp": "2026-06-23T13:37:42.360Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221860911-nir5",
+    "timestamp": "2026-06-23T13:37:40.911Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221860571-j5np",
+    "timestamp": "2026-06-23T13:37:40.571Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221858871-8ke3",
+    "timestamp": "2026-06-23T13:37:38.871Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221858754-d6os",
+    "timestamp": "2026-06-23T13:37:38.754Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221856692-pwbh",
+    "timestamp": "2026-06-23T13:37:36.692Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221856629-j65c",
+    "timestamp": "2026-06-23T13:37:36.629Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221854655-lyp4",
+    "timestamp": "2026-06-23T13:37:34.655Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782221854237-4dvy",
+    "timestamp": "2026-06-23T13:37:34.237Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143979367-2i4h",
+    "timestamp": "2026-06-22T15:59:39.367Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143979326-dk7c",
+    "timestamp": "2026-06-22T15:59:39.326Z",
+    "operator": "mari",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143979254-ludp",
+    "timestamp": "2026-06-22T15:59:39.254Z",
+    "operator": "mari",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "SECURITY_PASSED",
+    "actionDetail": "Stylist berhasil login, token sesi baru diterbitkan."
+  },
+  {
+    "id": "log-1782143979248-gmad",
+    "timestamp": "2026-06-22T15:59:39.248Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143968829-vnil",
+    "timestamp": "2026-06-22T15:59:28.829Z",
+    "operator": "MARI",
+    "method": "POST",
+    "path": "/api/auth/register",
+    "gdprStatus": "REGISTRATION_SUCCESS",
+    "actionDetail": "Karyawan baru terdaftar: MARIANA (Stylist Officer)"
+  },
+  {
+    "id": "log-1782143968818-2fju",
+    "timestamp": "2026-06-22T15:59:28.818Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/auth/register",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143845713-v2ep",
+    "timestamp": "2026-06-22T15:57:25.713Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/predict-color",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143836434-90aa",
+    "timestamp": "2026-06-22T15:57:16.434Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/analyze-image",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143705471-e3u8",
+    "timestamp": "2026-06-22T15:55:05.471Z",
+    "operator": "stev",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143705432-qby0",
+    "timestamp": "2026-06-22T15:55:05.433Z",
+    "operator": "stev",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143705363-altx",
+    "timestamp": "2026-06-22T15:55:05.363Z",
+    "operator": "stev",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "SECURITY_PASSED",
+    "actionDetail": "Stylist berhasil login, token sesi baru diterbitkan."
+  },
+  {
+    "id": "log-1782143705358-qrou",
+    "timestamp": "2026-06-22T15:55:05.358Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143693063-z1lf",
+    "timestamp": "2026-06-22T15:54:53.063Z",
+    "operator": "STEV",
+    "method": "POST",
+    "path": "/api/auth/register",
+    "gdprStatus": "REGISTRATION_SUCCESS",
+    "actionDetail": "Karyawan baru terdaftar: STEVEN (Stylist Officer)"
+  },
+  {
+    "id": "log-1782143693058-6dp7",
+    "timestamp": "2026-06-22T15:54:53.058Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/auth/register",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143665633-xfn7",
+    "timestamp": "2026-06-22T15:54:25.633Z",
+    "operator": "Anonymous",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "VIOLATION_BLOCKED",
+    "actionDetail": "Akses diblokir: Token sesi tidak valid atau kedaluwarsa."
+  },
+  {
+    "id": "log-1782143665626-9c0u",
+    "timestamp": "2026-06-22T15:54:25.626Z",
+    "operator": "tasya",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143665585-7jtz",
+    "timestamp": "2026-06-22T15:54:25.585Z",
+    "operator": "Anonymous",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "VIOLATION_BLOCKED",
+    "actionDetail": "Akses diblokir: Token sesi tidak valid atau kedaluwarsa."
+  },
+  {
+    "id": "log-1782143665571-56dg",
+    "timestamp": "2026-06-22T15:54:25.571Z",
+    "operator": "tasya",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143665506-7jhi",
+    "timestamp": "2026-06-22T15:54:25.506Z",
+    "operator": "tasya s",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "SECURITY_PASSED",
+    "actionDetail": "Stylist berhasil login, token sesi baru diterbitkan."
+  },
+  {
+    "id": "log-1782143665494-wq0m",
+    "timestamp": "2026-06-22T15:54:25.494Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143656616-ay7s",
+    "timestamp": "2026-06-22T15:54:16.616Z",
+    "operator": "Anonymous",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "VIOLATION_BLOCKED",
+    "actionDetail": "Akses diblokir: Token sesi tidak valid atau kedaluwarsa."
+  },
+  {
+    "id": "log-1782143656594-1i4y",
+    "timestamp": "2026-06-22T15:54:16.594Z",
+    "operator": "tasya",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143656570-giwg",
+    "timestamp": "2026-06-22T15:54:16.570Z",
+    "operator": "Anonymous",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "VIOLATION_BLOCKED",
+    "actionDetail": "Akses diblokir: Token sesi tidak valid atau kedaluwarsa."
+  },
+  {
+    "id": "log-1782143656563-u9mn",
+    "timestamp": "2026-06-22T15:54:16.563Z",
+    "operator": "tasya",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143656458-36ho",
+    "timestamp": "2026-06-22T15:54:16.459Z",
+    "operator": "tasya s",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "SECURITY_PASSED",
+    "actionDetail": "Stylist berhasil login, token sesi baru diterbitkan."
+  },
+  {
+    "id": "log-1782143656454-cvxm",
+    "timestamp": "2026-06-22T15:54:16.454Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143642967-nt4w",
+    "timestamp": "2026-06-22T15:54:02.967Z",
+    "operator": "Anonymous",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "VIOLATION_BLOCKED",
+    "actionDetail": "Akses diblokir: Token sesi tidak valid atau kedaluwarsa."
+  },
+  {
+    "id": "log-1782143642954-9hh5",
+    "timestamp": "2026-06-22T15:54:02.955Z",
+    "operator": "tasya",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143642912-cjk7",
+    "timestamp": "2026-06-22T15:54:02.912Z",
+    "operator": "Anonymous",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "VIOLATION_BLOCKED",
+    "actionDetail": "Akses diblokir: Token sesi tidak valid atau kedaluwarsa."
+  },
+  {
+    "id": "log-1782143642884-zlyo",
+    "timestamp": "2026-06-22T15:54:02.884Z",
+    "operator": "tasya",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143642811-2lix",
+    "timestamp": "2026-06-22T15:54:02.811Z",
+    "operator": "tasya s",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "SECURITY_PASSED",
+    "actionDetail": "Stylist berhasil login, token sesi baru diterbitkan."
+  },
+  {
+    "id": "log-1782143642797-33ur",
+    "timestamp": "2026-06-22T15:54:02.797Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143630952-nwi2",
+    "timestamp": "2026-06-22T15:53:50.952Z",
+    "operator": "Anonymous",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "VIOLATION_BLOCKED",
+    "actionDetail": "Akses diblokir: Token sesi tidak valid atau kedaluwarsa."
+  },
+  {
+    "id": "log-1782143630945-wksg",
+    "timestamp": "2026-06-22T15:53:50.945Z",
+    "operator": "tasya",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143630918-b5c6",
+    "timestamp": "2026-06-22T15:53:50.918Z",
+    "operator": "Anonymous",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "VIOLATION_BLOCKED",
+    "actionDetail": "Akses diblokir: Token sesi tidak valid atau kedaluwarsa."
+  },
+  {
+    "id": "log-1782143630903-17vc",
+    "timestamp": "2026-06-22T15:53:50.903Z",
+    "operator": "tasya",
+    "method": "GET",
+    "path": "/api/styles-db",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143630758-eg8o",
+    "timestamp": "2026-06-22T15:53:50.758Z",
+    "operator": "tasya s",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "SECURITY_PASSED",
+    "actionDetail": "Stylist berhasil login, token sesi baru diterbitkan."
+  },
+  {
+    "id": "log-1782143630754-hxma",
+    "timestamp": "2026-06-22T15:53:50.754Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143612633-2y05",
+    "timestamp": "2026-06-22T15:53:32.633Z",
+    "operator": "System",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "AUTH_FAILED",
+    "actionDetail": "Gagal masuk: Username atau sandi salah untuk \"TASYA S\"."
+  },
+  {
+    "id": "log-1782143612627-19ga",
+    "timestamp": "2026-06-22T15:53:32.627Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143607881-nczy",
+    "timestamp": "2026-06-22T15:53:27.881Z",
+    "operator": "System",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "AUTH_FAILED",
+    "actionDetail": "Gagal masuk: Username atau sandi salah untuk \"TASYA\"."
+  },
+  {
+    "id": "log-1782143607876-9ld0",
+    "timestamp": "2026-06-22T15:53:27.876Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143603808-c2jq",
+    "timestamp": "2026-06-22T15:53:23.808Z",
+    "operator": "System",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "AUTH_FAILED",
+    "actionDetail": "Gagal masuk: Username atau sandi salah untuk \"TASYA\"."
+  },
+  {
+    "id": "log-1782143603798-8yij",
+    "timestamp": "2026-06-22T15:53:23.798Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/auth/login",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143590010-qb98",
+    "timestamp": "2026-06-22T15:53:10.010Z",
+    "operator": "TASYA S",
+    "method": "POST",
+    "path": "/api/auth/register",
+    "gdprStatus": "REGISTRATION_SUCCESS",
+    "actionDetail": "Karyawan baru terdaftar: TASYAZESICA  (Stylist Officer)"
+  },
+  {
+    "id": "log-1782143590002-xa87",
+    "timestamp": "2026-06-22T15:53:10.002Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/auth/register",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  },
+  {
+    "id": "log-1782143517645-fugk",
+    "timestamp": "2026-06-22T15:51:57.645Z",
+    "operator": "Guest/Pelanggan",
+    "method": "POST",
+    "path": "/api/analyze-image",
+    "gdprStatus": "AUDITED",
+    "actionDetail": "Mengakses fungsionalitas sistem."
+  }
+]
